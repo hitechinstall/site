@@ -3,24 +3,24 @@ export default {
   "tagline": "The Twin Cities Premier HiTech Services Installer since 1983!",
   "url": "https://hitechinstall.com",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "hitechinstall",
-  "projectName": "website",
+  "projectName": "site",
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "HiTechInstall.com",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "HiTech Install Logo",
         "src": "img/logo.svg"
       },
       "items": [
         {
           "type": "doc",
-          "docId": "intro",
+          "docId": "manufacturers",
           "position": "left",
-          "label": "Tutorial",
+          "label": "Manufacturers",
           "activeSidebarClassName": "navbar__link--active"
         },
         {
@@ -29,7 +29,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/hitechinstall/site",
           "label": "GitHub",
           "position": "right"
         }
@@ -43,8 +43,8 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Manufacturers",
+              "to": "/docs/manufacturers"
             }
           ]
         },
@@ -52,16 +52,12 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
-            },
-            {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/hitechinstallmn"
+            },
+            {
+              "label": "Instagram",
+              "href": "https://Instagram.com/hitechinstallmn"
             }
           ]
         },
@@ -74,12 +70,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/hitechinstall"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2021 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2021 HiTechInstall, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -298,11 +294,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/oni/Repositories/github.com/hitechinstall/site/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/"
+          "editUrl": "https://github.com/hitechinstall/site/edit/master/website/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/edit/master/website/blog/"
+          "editUrl": "https://github.com/hitechinstall/site/edit/master/website/blog/"
         },
         "theme": {
           "customCss": "/Users/oni/Repositories/github.com/hitechinstall/site/src/css/custom.css"
