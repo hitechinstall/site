@@ -1,0 +1,26 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": "none",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "contact",
+        "href": "/docs/contact"
+      },
+      {
+        "type": "link",
+        "label": "manufacturers",
+        "href": "/docs/manufacturers"
+      },
+      {
+        "type": "link",
+        "label": "intro",
+        "href": "/docs/intro"
+      }
+    ]
+  }
+}
