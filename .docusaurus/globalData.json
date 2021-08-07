@@ -8,8 +8,13 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "contact",
           "docs": [
+            {
+              "id": "contact",
+              "path": "/docs/contact",
+              "sidebar": "tutorialSidebar"
+            },
             {
               "id": "intro",
               "path": "/docs/intro",

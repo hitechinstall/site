@@ -1,5 +1,7 @@
 ---
-sidebar_position: 1
+id: intro
+title: intro
+sidebar_position: 3
 ---
 
 # Tutorial Intro

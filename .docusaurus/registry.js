@@ -7,6 +7,7 @@ export default {
   '1f391b9e': [() => import(/* webpackChunkName: '1f391b9e' */ "@theme/MDXPage"), "@theme/MDXPage", require.resolveWeak("@theme/MDXPage")],
   '2868cdab': [() => import(/* webpackChunkName: '2868cdab' */ "@site/blog/2019-05-30-welcome.md"), "@site/blog/2019-05-30-welcome.md", require.resolveWeak("@site/blog/2019-05-30-welcome.md")],
   '30a24c52': [() => import(/* webpackChunkName: '30a24c52' */ "~blog/default/blog-tags-hello-039.json"), "~blog/default/blog-tags-hello-039.json", require.resolveWeak("~blog/default/blog-tags-hello-039.json")],
+  '32dd35a8': [() => import(/* webpackChunkName: '32dd35a8' */ "@site/docs/contact.md"), "@site/docs/contact.md", require.resolveWeak("@site/docs/contact.md")],
   '3570154c': [() => import(/* webpackChunkName: '3570154c' */ "@site/blog/2019-05-29-hello-world.md?truncated=true"), "@site/blog/2019-05-29-hello-world.md?truncated=true", require.resolveWeak("@site/blog/2019-05-29-hello-world.md?truncated=true")],
   '393be207': [() => import(/* webpackChunkName: '393be207' */ "@site/src/pages/markdown-page.md"), "@site/src/pages/markdown-page.md", require.resolveWeak("@site/src/pages/markdown-page.md")],
   '5c2d8334': [() => import(/* webpackChunkName: '5c2d8334' */ "@site/docs/manufacturers.md"), "@site/docs/manufacturers.md", require.resolveWeak("@site/docs/manufacturers.md")],

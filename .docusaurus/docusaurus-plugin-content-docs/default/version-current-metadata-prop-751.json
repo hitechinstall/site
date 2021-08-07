@@ -8,13 +8,18 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro"
+        "label": "contact",
+        "href": "/docs/contact"
       },
       {
         "type": "link",
         "label": "manufacturers",
         "href": "/docs/manufacturers"
+      },
+      {
+        "type": "link",
+        "label": "intro",
+        "href": "/docs/intro"
       }
     ]
   }

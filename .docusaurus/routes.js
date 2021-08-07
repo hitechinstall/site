@@ -65,8 +65,14 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs','39a'),
+    component: ComponentCreator('/docs','ba6'),
     routes: [
+      {
+        path: '/docs/contact',
+        component: ComponentCreator('/docs/contact','b66'),
+        exact: true,
+        'sidebar': "tutorialSidebar"
+      },
       {
         path: '/docs/intro',
         component: ComponentCreator('/docs/intro','aed'),
