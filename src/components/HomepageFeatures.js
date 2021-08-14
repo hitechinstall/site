@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/vacuum.svg').default,
     description: (
       <>
-        Hands down, the central vacuum system is the healthiest vacuum choice you can make for your new construction or existing home. 
+        Hands down, the central vacuum system is the healthiest vacuum choice you can make for your new construction or existing home. Providing sales, upgrades and serivice on existing installations.  
       </>
     ),
   },
@@ -32,10 +32,10 @@ const FeatureList = [
   },
   {
     title: 'Low Voltage Landscaping',
-    Svg: require('../../static/img/low_voltage.svg').default,
+    Svg: require('../../static/img/low_voltage1.svg').default,
     description: (
       <>
-        Customize your home with outdoor lighting and entertainment systems of any size and scale
+        Customize your home with outdoor lighting and entertainment systems of any size and scale. Make your home the jewel of your neighborhood!
       </>
     ),
   },

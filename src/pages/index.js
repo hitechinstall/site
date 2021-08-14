@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-import DoorSVG from '../../static/img/grand_door.svg';
+import DoorSVG from '../../static/img/entryway.svg';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();

@@ -4,12 +4,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'HiTechInstall.com',
-  tagline:  'The Twin Cities Premier HiTech Services Installer since 1983!',
+  tagline:  '39 𝒴𝑒𝒶𝓇𝓈 𝒾𝓃 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒽𝒶𝓈 𝓉𝒶𝓊𝑔𝒽𝓉 𝓊𝓈 𝒶 𝓁𝑜𝓉!',
   url: 'https://hitechinstall.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/hitech_logo.ico',
   organizationName: 'hitechinstall', // Usually your GitHub org/user name.
   projectName: 'site', // Usually your repo name.
   themeConfig: {
@@ -17,7 +17,7 @@ module.exports = {
       title: 'HiTechInstall.com',
       logo: {
         alt: 'HiTech Install Logo',
-        src: 'img/logo.svg',
+        src: 'img/hitech_logo.svg',
       },
       items: [
         {
@@ -35,6 +35,7 @@ module.exports = {
       ],
     },
     footer: {
+      copyright: `Copyright © ${new Date().getFullYear()} 𝓗𝓲-𝓣𝓮𝓬𝓱 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓪𝓽𝓲𝓸𝓷/𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓛𝓛𝓒`,
       style: 'dark',
       links: [
         {
@@ -73,7 +74,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} HiTechInstall, Inc. Built with Docusaurus.`,
+      // copyright: `Copyright © ${new Date().getFullYear()} HiTechInstall, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
