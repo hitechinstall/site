@@ -1,11 +1,11 @@
 export default {
   "title": "HiTechInstall.com",
-  "tagline": "The Twin Cities Premier HiTech Services Installer since 1983!",
+  "tagline": "39 𝒴𝑒𝒶𝓇𝓈 𝒾𝓃 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒽𝒶𝓈 𝓉𝒶𝓊𝑔𝒽𝓉 𝓊𝓈 𝒶 𝓁𝑜𝓉!",
   "url": "https://hitechinstall.com",
   "baseUrl": "/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
-  "favicon": "img/favicon.ico",
+  "favicon": "img/hitech_logo.ico",
   "organizationName": "hitechinstall",
   "projectName": "site",
   "themeConfig": {
@@ -13,7 +13,7 @@ export default {
       "title": "HiTechInstall.com",
       "logo": {
         "alt": "HiTech Install Logo",
-        "src": "img/logo.svg"
+        "src": "img/hitech_logo.svg"
       },
       "items": [
         {
@@ -37,6 +37,7 @@ export default {
       "hideOnScroll": false
     },
     "footer": {
+      "copyright": "Copyright © 2021 𝓗𝓲-𝓣𝓮𝓬𝓱 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓪𝓽𝓲𝓸𝓷/𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓛𝓛𝓒",
       "style": "dark",
       "links": [
         {
@@ -74,8 +75,7 @@ export default {
             }
           ]
         }
-      ],
-      "copyright": "Copyright © 2021 HiTechInstall, Inc. Built with Docusaurus."
+      ]
     },
     "prism": {
       "theme": {
