@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hitechinstall.com/blog"/>
     <subtitle>HiTechInstall.com Blog</subtitle>
-    <icon>https://hitechinstall.com/img/favicon.ico</icon>
+    <icon>https://hitechinstall.com/img/hitech_logo.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
