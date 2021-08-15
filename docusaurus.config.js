@@ -10,7 +10,7 @@ module.exports = {
   title: '𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 ℋ𝒾𝒯𝑒𝒸𝒽ℐ𝓃𝓈𝓉𝒶𝓁𝓁.𝒸𝑜𝓂',
   tagline: '39 𝒴𝑒𝒶𝓇𝓈 𝒾𝓃 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒽𝒶𝓈 𝓉𝒶𝓊𝑔𝒽𝓉 𝓊𝓈 𝒶 𝓁𝑜𝓉!',
   url: 'https://hitechinstall.com',
-  baseUrl: '/site',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/hitech_logo.ico',
@@ -83,7 +83,7 @@ module.exports = {
           ],
         },
       ],
-      // copyright: `Copyright © ${new Date().getFullYear()} HiTechInstall, Inc. Built with Docusaurus.`,
+      //copyright: `Copyright © ${new Date().getFullYear()} 𝓗𝓲-𝓣𝓮𝓬𝓱 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓪𝓽𝓲𝓸𝓷/𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓛𝓛𝓒`,
     },
     prism: {
       theme: lightCodeTheme,

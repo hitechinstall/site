@@ -2,16 +2,20 @@
   "title": "Recent posts",
   "items": [
     {
+      "title": "Welcome to HiTechInstall",
+      "permalink": "/site/blog/welcome_to_hitechinstall"
+    },
+    {
       "title": "Welcome",
-      "permalink": "/blog/welcome"
+      "permalink": "/site/blog/welcome"
     },
     {
       "title": "Hello",
-      "permalink": "/blog/hello-world"
+      "permalink": "/site/blog/hello-world"
     },
     {
       "title": "Hola",
-      "permalink": "/blog/hola"
+      "permalink": "/site/blog/hola"
     }
   ]
 }

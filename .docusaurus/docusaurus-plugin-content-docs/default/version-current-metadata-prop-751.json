@@ -9,18 +9,23 @@
       {
         "type": "link",
         "label": "contact",
-        "href": "/docs/contact"
+        "href": "/site/docs/contact"
       },
       {
         "type": "link",
         "label": "manufacturers",
-        "href": "/docs/manufacturers"
+        "href": "/site/docs/manufacturers"
       },
       {
         "type": "link",
         "label": "intro",
-        "href": "/docs/intro"
+        "href": "/site/docs/intro"
       }
     ]
+  },
+  "permalinkToSidebar": {
+    "/site/docs/contact": "tutorialSidebar",
+    "/site/docs/intro": "tutorialSidebar",
+    "/site/docs/manufacturers": "tutorialSidebar"
   }
 }

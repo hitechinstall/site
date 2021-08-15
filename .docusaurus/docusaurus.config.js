@@ -1,8 +1,12 @@
 export default {
-  "title": "HiTechInstall.com",
+  "customFields": {
+    "tagline2": "𝒞𝑜𝓂𝑒 𝑜𝓃 𝒾𝓃!",
+    "tagline3": "612-559 - 1000"
+  },
+  "title": "𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 ℋ𝒾𝒯𝑒𝒸𝒽ℐ𝓃𝓈𝓉𝒶𝓁𝓁.𝒸𝑜𝓂",
   "tagline": "39 𝒴𝑒𝒶𝓇𝓈 𝒾𝓃 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒽𝒶𝓈 𝓉𝒶𝓊𝑔𝒽𝓉 𝓊𝓈 𝒶 𝓁𝑜𝓉!",
   "url": "https://hitechinstall.com",
-  "baseUrl": "/",
+  "baseUrl": "/site/",
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/hitech_logo.ico",
@@ -22,6 +26,11 @@ export default {
           "position": "left",
           "label": "Manufacturers",
           "activeSidebarClassName": "navbar__link--active"
+        },
+        {
+          "to": "/docs/contact",
+          "label": "Contact",
+          "position": "left"
         },
         {
           "to": "/blog",
@@ -46,6 +55,10 @@ export default {
             {
               "label": "Manufacturers",
               "to": "/docs/manufacturers"
+            },
+            {
+              "label": "Contact Us",
+              "to": "/docs/contact"
             }
           ]
         },
@@ -294,11 +307,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/Users/oni/Repositories/github.com/hitechinstall/site/sidebars.js",
-          "editUrl": "https://github.com/hitechinstall/site/edit/master/website/"
+          "editUrl": "https://github.com/hitechinstall/site/edit/main/website/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/hitechinstall/site/edit/master/website/blog/"
+          "editUrl": "https://github.com/hitechinstall/site/edit/main/website/blog/"
         },
         "theme": {
           "customCss": "/Users/oni/Repositories/github.com/hitechinstall/site/src/css/custom.css"
@@ -315,7 +328,6 @@ export default {
     "localeConfigs": {}
   },
   "onDuplicateRoutes": "warn",
-  "customFields": {},
   "plugins": [],
   "themes": [],
   "titleDelimiter": "|",

@@ -1,28 +1,28 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/site/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/site/docs",
           "mainDocId": "contact",
           "docs": [
             {
               "id": "contact",
-              "path": "/docs/contact",
+              "path": "/site/docs/contact",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/site/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "manufacturers",
-              "path": "/docs/manufacturers",
+              "path": "/site/docs/manufacturers",
               "sidebar": "tutorialSidebar"
             }
           ]

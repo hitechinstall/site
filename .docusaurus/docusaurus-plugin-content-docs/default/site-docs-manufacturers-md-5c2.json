@@ -7,8 +7,8 @@
   "source": "@site/docs/manufacturers.md",
   "sourceDirName": ".",
   "slug": "/manufacturers",
-  "permalink": "/docs/manufacturers",
-  "editUrl": "https://github.com/hitechinstall/site/edit/master/website/docs/manufacturers.md",
+  "permalink": "/site/docs/manufacturers",
+  "editUrl": "https://github.com/hitechinstall/site/edit/main/website/docs/manufacturers.md",
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
@@ -19,10 +19,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "contact",
-    "permalink": "/docs/contact"
+    "permalink": "/site/docs/contact"
   },
   "next": {
     "title": "intro",
-    "permalink": "/docs/intro"
+    "permalink": "/site/docs/intro"
   }
 }

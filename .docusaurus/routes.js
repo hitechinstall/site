@@ -1,94 +1,106 @@
 
 import React from 'react';
 import ComponentCreator from '@docusaurus/ComponentCreator';
-
 export default [
-  {
-    path: '/',
-    component: ComponentCreator('/','deb'),
-    exact: true
-  },
-  {
-    path: '/blog',
-    component: ComponentCreator('/blog','569'),
-    exact: true
-  },
-  {
-    path: '/blog/hello-world',
-    component: ComponentCreator('/blog/hello-world','07a'),
-    exact: true
-  },
-  {
-    path: '/blog/hola',
-    component: ComponentCreator('/blog/hola','6e6'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags','e13'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus','738'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook','2fe'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello','263'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola','8b3'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome','015'),
-    exact: true
-  },
-  {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page','be1'),
-    exact: true
-  },
-  {
-    path: '/my-react-page',
-    component: ComponentCreator('/my-react-page','86f'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs','ba6'),
-    routes: [
-      {
-        path: '/docs/contact',
-        component: ComponentCreator('/docs/contact','b66'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro','aed'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      },
-      {
-        path: '/docs/manufacturers',
-        component: ComponentCreator('/docs/manufacturers','059'),
-        exact: true,
-        'sidebar': "tutorialSidebar"
-      }
-    ]
-  },
-  {
-    path: '*',
-    component: ComponentCreator('*')
-  }
+{
+  path: '/site/',
+  component: ComponentCreator('/site/','c9f'),
+  exact: true,
+},
+{
+  path: '/site/blog',
+  component: ComponentCreator('/site/blog','375'),
+  exact: true,
+},
+{
+  path: '/site/blog/hello-world',
+  component: ComponentCreator('/site/blog/hello-world','997'),
+  exact: true,
+},
+{
+  path: '/site/blog/hola',
+  component: ComponentCreator('/site/blog/hola','d4f'),
+  exact: true,
+},
+{
+  path: '/site/blog/tags',
+  component: ComponentCreator('/site/blog/tags','b3b'),
+  exact: true,
+},
+{
+  path: '/site/blog/tags/docusaurus',
+  component: ComponentCreator('/site/blog/tags/docusaurus','6bd'),
+  exact: true,
+},
+{
+  path: '/site/blog/tags/facebook',
+  component: ComponentCreator('/site/blog/tags/facebook','97e'),
+  exact: true,
+},
+{
+  path: '/site/blog/tags/hello',
+  component: ComponentCreator('/site/blog/tags/hello','1dd'),
+  exact: true,
+},
+{
+  path: '/site/blog/tags/hitechinstall',
+  component: ComponentCreator('/site/blog/tags/hitechinstall','af0'),
+  exact: true,
+},
+{
+  path: '/site/blog/tags/hola',
+  component: ComponentCreator('/site/blog/tags/hola','af6'),
+  exact: true,
+},
+{
+  path: '/site/blog/tags/welcome',
+  component: ComponentCreator('/site/blog/tags/welcome','a6d'),
+  exact: true,
+},
+{
+  path: '/site/blog/welcome',
+  component: ComponentCreator('/site/blog/welcome','0ad'),
+  exact: true,
+},
+{
+  path: '/site/blog/welcome_to_hitechinstall',
+  component: ComponentCreator('/site/blog/welcome_to_hitechinstall','556'),
+  exact: true,
+},
+{
+  path: '/site/markdown-page',
+  component: ComponentCreator('/site/markdown-page','7f3'),
+  exact: true,
+},
+{
+  path: '/site/my-react-page',
+  component: ComponentCreator('/site/my-react-page','849'),
+  exact: true,
+},
+{
+  path: '/site/docs',
+  component: ComponentCreator('/site/docs','a0a'),
+  
+  routes: [
+{
+  path: '/site/docs/contact',
+  component: ComponentCreator('/site/docs/contact','078'),
+  exact: true,
+},
+{
+  path: '/site/docs/intro',
+  component: ComponentCreator('/site/docs/intro','8f0'),
+  exact: true,
+},
+{
+  path: '/site/docs/manufacturers',
+  component: ComponentCreator('/site/docs/manufacturers','ef5'),
+  exact: true,
+},
+]
+},
+{
+  path: '*',
+  component: ComponentCreator('*')
+}
 ];
