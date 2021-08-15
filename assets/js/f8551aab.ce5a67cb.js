@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhitechinstall=self.webpackChunkhitechinstall||[]).push([[743],{7574:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var l=n(7294),a=n(261);function c(){return l.createElement(a.Z,null,l.createElement("h1",null,"My React page"),l.createElement("p",null,"This is a React page"))}}}]);
