@@ -1,0 +1,29 @@
+{
+  "permalink": "/site/blog/welcome_to_hitechinstall",
+  "editUrl": "https://github.com/hitechinstall/site/edit/main/website/blog/blog/2021-08-14-welcome_to_hitechinstall.md",
+  "source": "@site/blog/2021-08-14-welcome_to_hitechinstall.md",
+  "title": "Welcome to HiTechInstall",
+  "description": "Hello and welcome to HiTechInstall.com",
+  "date": "2021-08-14T00:00:00.000Z",
+  "formattedDate": "August 14, 2021",
+  "tags": [
+    {
+      "label": "hello",
+      "permalink": "/site/blog/tags/hello"
+    },
+    {
+      "label": "welcome",
+      "permalink": "/site/blog/tags/welcome"
+    },
+    {
+      "label": "hitechinstall",
+      "permalink": "/site/blog/tags/hitechinstall"
+    }
+  ],
+  "readingTime": 0.41,
+  "truncated": false,
+  "nextItem": {
+    "title": "Welcome",
+    "permalink": "/site/blog/welcome"
+  }
+}
