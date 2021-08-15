@@ -15,13 +15,15 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <DoorSVG />
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+        <p className="hero__subtitle">{siteConfig.tagline2}</p>
+        <p className="hero__subtitle">{siteConfig.tagline3}</p>
+        {/* <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/contact">
             Schedule your Consultation Today! ⏱️
           </Link>
-        </div>
+        </div> */}
       </div>
     </header>
   );

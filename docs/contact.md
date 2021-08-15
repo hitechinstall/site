@@ -5,6 +5,8 @@ sidebar_position: 1
 ---
 
 # Contact Us!
+
+|     |             |
 |:----|------------:|
 |Phone:| 612-559-1000|
 |Email:| [hitechinstallmn@gmail.com](mailto:hitechinstallmn@gmail.com)|

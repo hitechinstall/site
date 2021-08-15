@@ -21,9 +21,5 @@
     }
   ],
   "readingTime": 0.41,
-  "truncated": false,
-  "nextItem": {
-    "title": "Welcome",
-    "permalink": "/blog/welcome"
-  }
+  "truncated": false
 }

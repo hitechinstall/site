@@ -3,78 +3,27 @@
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   },
-  "/blog-14b": {
+  "/blog-5e3": {
     "component": "a6aa9e1f",
     "sidebar": "814f3328",
     "items": [
       {
         "content": "b99c8c1f"
-      },
-      {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
-      },
-      {
-        "content": "8e9f0a8a"
       }
     ],
     "metadata": "b2b675dd"
-  },
-  "/blog/hello-world-07a": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "d610846f"
-  },
-  "/blog/hola-6e6": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "bdd709f1"
   },
   "/blog/tags-e13": {
     "component": "01a85c17",
     "sidebar": "814f3328",
     "tags": "a7023ddc"
   },
-  "/blog/tags/docusaurus-738": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
-      },
-      {
-        "content": "8e9f0a8a"
-      }
-    ],
-    "metadata": "a80da1cf"
-  },
-  "/blog/tags/facebook-2fe": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "af172acd"
-      }
-    ],
-    "metadata": "031793e1"
-  },
-  "/blog/tags/hello-6b6": {
+  "/blog/tags/hello-f97": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
       {
         "content": "b99c8c1f"
-      },
-      {
-        "content": "af172acd"
-      },
-      {
-        "content": "3570154c"
       }
     ],
     "metadata": "30a24c52"
@@ -89,16 +38,6 @@
     ],
     "metadata": "8917a8df"
   },
-  "/blog/tags/hola-8b3": {
-    "component": "6875c492",
-    "sidebar": "814f3328",
-    "items": [
-      {
-        "content": "8e9f0a8a"
-      }
-    ],
-    "metadata": "e16015ca"
-  },
   "/blog/tags/welcome-fe9": {
     "component": "6875c492",
     "sidebar": "814f3328",
@@ -108,11 +47,6 @@
       }
     ],
     "metadata": "f6ba3702"
-  },
-  "/blog/welcome-015": {
-    "component": "ccc49370",
-    "sidebar": "814f3328",
-    "content": "2868cdab"
   },
   "/blog/welcome_to_hitechinstall-715": {
     "component": "ccc49370",
