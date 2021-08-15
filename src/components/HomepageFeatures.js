@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/intercom.svg').default,
     description: (
       <>
-        Video Intercom Systems For Residential homes, Apartments & Multi-Tenant Buildings. Products from the leading international manufacturer of intercom and security systems
+        Video Intercom Systems For Residential homes, Apartments & Multi-Tenant Buildings. Products from the leading international manufacturer of intercom and security systems.
       </>
     ),
   },
@@ -44,7 +44,7 @@ const FeatureList = [
     Svg: require('../../static/img/network.svg').default,
     description: (
       <>
-        Wired or wireless networking install and services for the fastest connectivity possible
+        Wired or wireless networking install and services for the fastest connectivity possible.
       </>
     ),
   },
