@@ -1,9 +1,9 @@
 {
-  "/site/-c9f": {
+  "/-deb": {
     "component": "c4f5d8e4",
     "config": "5e9f5e1a"
   },
-  "/site/blog-375": {
+  "/blog-14b": {
     "component": "a6aa9e1f",
     "sidebar": "814f3328",
     "items": [
@@ -20,24 +20,24 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "8c484570"
+    "metadata": "b2b675dd"
   },
-  "/site/blog/hello-world-997": {
+  "/blog/hello-world-07a": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "d610846f"
   },
-  "/site/blog/hola-d4f": {
+  "/blog/hola-6e6": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "bdd709f1"
   },
-  "/site/blog/tags-b3b": {
+  "/blog/tags-e13": {
     "component": "01a85c17",
     "sidebar": "814f3328",
-    "tags": "c890ceb5"
+    "tags": "a7023ddc"
   },
-  "/site/blog/tags/docusaurus-6bd": {
+  "/blog/tags/docusaurus-738": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -51,9 +51,9 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "7199ad53"
+    "metadata": "a80da1cf"
   },
-  "/site/blog/tags/facebook-97e": {
+  "/blog/tags/facebook-2fe": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -61,9 +61,9 @@
         "content": "af172acd"
       }
     ],
-    "metadata": "a0632b58"
+    "metadata": "031793e1"
   },
-  "/site/blog/tags/hello-1dd": {
+  "/blog/tags/hello-6b6": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -77,9 +77,9 @@
         "content": "3570154c"
       }
     ],
-    "metadata": "4ad2bd8b"
+    "metadata": "30a24c52"
   },
-  "/site/blog/tags/hitechinstall-af0": {
+  "/blog/tags/hitechinstall-fbb": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -87,9 +87,9 @@
         "content": "b99c8c1f"
       }
     ],
-    "metadata": "3f722a97"
+    "metadata": "8917a8df"
   },
-  "/site/blog/tags/hola-af6": {
+  "/blog/tags/hola-8b3": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -97,9 +97,9 @@
         "content": "8e9f0a8a"
       }
     ],
-    "metadata": "e268232c"
+    "metadata": "e16015ca"
   },
-  "/site/blog/tags/welcome-a6d": {
+  "/blog/tags/welcome-fe9": {
     "component": "6875c492",
     "sidebar": "814f3328",
     "items": [
@@ -107,39 +107,39 @@
         "content": "b99c8c1f"
       }
     ],
-    "metadata": "ab8db3b5"
+    "metadata": "f6ba3702"
   },
-  "/site/blog/welcome-0ad": {
+  "/blog/welcome-015": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "2868cdab"
   },
-  "/site/blog/welcome_to_hitechinstall-556": {
+  "/blog/welcome_to_hitechinstall-715": {
     "component": "ccc49370",
     "sidebar": "814f3328",
     "content": "f05443a6"
   },
-  "/site/markdown-page-7f3": {
+  "/markdown-page-be1": {
     "component": "1f391b9e",
     "content": "393be207"
   },
-  "/site/my-react-page-849": {
+  "/my-react-page-86f": {
     "component": "f8551aab",
     "config": "5e9f5e1a"
   },
-  "/site/docs-a0a": {
+  "/docs-d26": {
     "component": "1be78505",
     "versionMetadata": "935f2afb"
   },
-  "/site/docs/contact-078": {
+  "/docs/contact-a89": {
     "component": "17896441",
     "content": "32dd35a8"
   },
-  "/site/docs/intro-8f0": {
+  "/docs/intro-e84": {
     "component": "17896441",
     "content": "0e384e19"
   },
-  "/site/docs/manufacturers-ef5": {
+  "/docs/manufacturers-78d": {
     "component": "17896441",
     "content": "5c2d8334"
   }

@@ -1,1 +1,0 @@
-(self.webpackChunkhitechinstall=self.webpackChunkhitechinstall||[]).push([[639],{2083:function(t){"use strict";t.exports=JSON.parse('{"allTagsPath":"/site/blog/tags","slug":"hitechinstall","name":"hitechinstall","count":1,"permalink":"/site/blog/tags/hitechinstall"}')}}]);

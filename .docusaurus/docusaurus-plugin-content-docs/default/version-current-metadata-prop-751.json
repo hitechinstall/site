@@ -9,23 +9,23 @@
       {
         "type": "link",
         "label": "contact",
-        "href": "/site/docs/contact"
+        "href": "/docs/contact"
       },
       {
         "type": "link",
         "label": "manufacturers",
-        "href": "/site/docs/manufacturers"
+        "href": "/docs/manufacturers"
       },
       {
         "type": "link",
         "label": "intro",
-        "href": "/site/docs/intro"
+        "href": "/docs/intro"
       }
     ]
   },
   "permalinkToSidebar": {
-    "/site/docs/contact": "tutorialSidebar",
-    "/site/docs/intro": "tutorialSidebar",
-    "/site/docs/manufacturers": "tutorialSidebar"
+    "/docs/contact": "tutorialSidebar",
+    "/docs/intro": "tutorialSidebar",
+    "/docs/manufacturers": "tutorialSidebar"
   }
 }

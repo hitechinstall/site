@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome to HiTechInstall",
-      "permalink": "/site/blog/welcome_to_hitechinstall"
+      "permalink": "/blog/welcome_to_hitechinstall"
     },
     {
       "title": "Welcome",
-      "permalink": "/site/blog/welcome"
+      "permalink": "/blog/welcome"
     },
     {
       "title": "Hello",
-      "permalink": "/site/blog/hello-world"
+      "permalink": "/blog/hello-world"
     },
     {
       "title": "Hola",
-      "permalink": "/site/blog/hola"
+      "permalink": "/blog/hola"
     }
   ]
 }

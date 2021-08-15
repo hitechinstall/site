@@ -7,7 +7,7 @@
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/site/docs/intro",
+  "permalink": "/docs/intro",
   "editUrl": "https://github.com/hitechinstall/site/edit/main/website/docs/intro.md",
   "version": "current",
   "sidebarPosition": 3,
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "manufacturers",
-    "permalink": "/site/docs/manufacturers"
+    "permalink": "/docs/manufacturers"
   }
 }

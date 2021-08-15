@@ -1,5 +1,5 @@
 {
-  "permalink": "/site/blog/welcome_to_hitechinstall",
+  "permalink": "/blog/welcome_to_hitechinstall",
   "editUrl": "https://github.com/hitechinstall/site/edit/main/website/blog/blog/2021-08-14-welcome_to_hitechinstall.md",
   "source": "@site/blog/2021-08-14-welcome_to_hitechinstall.md",
   "title": "Welcome to HiTechInstall",
@@ -9,21 +9,21 @@
   "tags": [
     {
       "label": "hello",
-      "permalink": "/site/blog/tags/hello"
+      "permalink": "/blog/tags/hello"
     },
     {
       "label": "welcome",
-      "permalink": "/site/blog/tags/welcome"
+      "permalink": "/blog/tags/welcome"
     },
     {
       "label": "hitechinstall",
-      "permalink": "/site/blog/tags/hitechinstall"
+      "permalink": "/blog/tags/hitechinstall"
     }
   ],
   "readingTime": 0.41,
   "truncated": false,
   "nextItem": {
     "title": "Welcome",
-    "permalink": "/site/blog/welcome"
+    "permalink": "/blog/welcome"
   }
 }

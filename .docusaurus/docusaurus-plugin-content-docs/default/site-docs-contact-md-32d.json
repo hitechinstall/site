@@ -7,7 +7,7 @@
   "source": "@site/docs/contact.md",
   "sourceDirName": ".",
   "slug": "/contact",
-  "permalink": "/site/docs/contact",
+  "permalink": "/docs/contact",
   "editUrl": "https://github.com/hitechinstall/site/edit/main/website/docs/contact.md",
   "version": "current",
   "sidebarPosition": 1,
@@ -19,6 +19,6 @@
   "sidebar": "tutorialSidebar",
   "next": {
     "title": "manufacturers",
-    "permalink": "/site/docs/manufacturers"
+    "permalink": "/docs/manufacturers"
   }
 }

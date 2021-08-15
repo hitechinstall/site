@@ -1,1 +1,0 @@
-(self.webpackChunkhitechinstall=self.webpackChunkhitechinstall||[]).push([[447],{941:function(e){"use strict";e.exports=JSON.parse('{"allTagsPath":"/site/blog/tags","slug":"welcome","name":"welcome","count":1,"permalink":"/site/blog/tags/welcome"}')}}]);
