@@ -15,8 +15,8 @@ function HomepageHeader() {
         <h1 className="hero__title">{siteConfig.title}</h1>
         <DoorSVG />
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p className="hero__subtitle">{siteConfig.tagline2}</p>
-        <p className="hero__subtitle">{siteConfig.tagline3}</p>
+        <p className="hero__subtitle">{siteConfig.customFields.tagline2}</p>
+        <p className="hero__subtitle">{siteConfig.customFields.phone}</p>
         {/* <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
