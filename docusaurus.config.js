@@ -3,10 +3,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'HiTechInstall.com',
-  tagline:  '39 𝒴𝑒𝒶𝓇𝓈 𝒾𝓃 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒽𝒶𝓈 𝓉𝒶𝓊𝑔𝒽𝓉 𝓊𝓈 𝒶 𝓁𝑜𝓉!',
+  customFields: {
+    tagline2: '𝒞𝑜𝓂𝑒 𝑜𝓃 𝒾𝓃!',
+    tagline3: '612-559 - 1000',
+  },
+  title: '𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 ℋ𝒾𝒯𝑒𝒸𝒽ℐ𝓃𝓈𝓉𝒶𝓁𝓁.𝒸𝑜𝓂',
+  tagline: '39 𝒴𝑒𝒶𝓇𝓈 𝒾𝓃 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒽𝒶𝓈 𝓉𝒶𝓊𝑔𝒽𝓉 𝓊𝓈 𝒶 𝓁𝑜𝓉!',
   url: 'https://hitechinstall.com',
-  baseUrl: '/',
+  baseUrl: '/site',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/hitech_logo.ico',
@@ -26,6 +30,7 @@ module.exports = {
           position: 'left',
           label: 'Manufacturers',
         },
+        {to: '/docs/contact', label: 'Contact', position: 'left'},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/hitechinstall/site',
@@ -44,6 +49,10 @@ module.exports = {
             {
               label: 'Manufacturers',
               to: '/docs/manufacturers',
+            },
+            {
+              label: 'Contact Us',
+              to: '/docs/contact',
             },
           ],
         },
@@ -89,13 +98,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/hitechinstall/site/edit/master/website/',
+            'https://github.com/hitechinstall/site/edit/main/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/hitechinstall/site/edit/master/website/blog/',
+            'https://github.com/hitechinstall/site/edit/main/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
