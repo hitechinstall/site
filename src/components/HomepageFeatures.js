@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/sec_system.svg').default,
     description: (
       <>
-        Security system sales, service and installation for the home, cabin or business. Or wherever you need a site secured!
+        Security system sales, service and installation for the home, cabin or business, wherever you need a site secured.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/intercom.svg').default,
     description: (
       <>
-        Video Intercom Systems For Residential homes, Apartments & Multi-Tenant Buildings. Products from the leading international manufacturer of intercom and security systems.
+        Video Intercom Systems For Residential homes, Apartments & Multi-Tenant Buildings. Products from the leading international manufacturers of intercom and security systems.
       </>
     ),
   },
