@@ -6,7 +6,6 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import DoorSVG from '../../static/img/entryway.svg';
-import RetroHitCounter from 'react-retro-hit-counter';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -18,23 +17,7 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <p className="hero__subtitle">{siteConfig.customFields.tagline2}</p>
         <p className="hero__subtitle">{siteConfig.customFields.phone}</p>
-        <RetroHitCounter
-          hits={1337}
-          /* The following are all default values: */
-          withBorder={true}
-          withGlow={false}
-          minLength={4}
-          size={40}
-          padding={4}
-          digitSpacing={3}
-          segmentThickness={4}
-          segmentSpacing={0.5}
-          segmentActiveColor="#76FF03"
-          segmentInactiveColor="#315324"
-          backgroundColor="#222222"
-          borderThickness={7}
-          glowStrength={0.5}
-        />
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhitechinstall.com&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
         {/* <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
