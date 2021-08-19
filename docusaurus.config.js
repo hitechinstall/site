@@ -4,11 +4,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   customFields: {
-    tagline2: '𝒞𝑜𝓂𝑒 𝑜𝓃 𝒾𝓃!',
-    phone: '612-559 - 1000',
+    tagline2: 'Come on in!',
+    phone: '612-559-1000',
   },
-  title: '𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 ℋ𝒾𝒯𝑒𝒸𝒽ℐ𝓃𝓈𝓉𝒶𝓁𝓁.𝒸𝑜𝓂',
-  tagline: '39 𝒴𝑒𝒶𝓇𝓈 𝒾𝓃 𝒷𝓊𝓈𝒾𝓃𝑒𝓈𝓈 𝒽𝒶𝓈 𝓉𝒶𝓊𝑔𝒽𝓉 𝓊𝓈 𝒶 𝓁𝑜𝓉!',
+  title: 'Welcome to HiTechInstall.com',
+  tagline: '39 Years in business has taught us a lot!',
   url: 'https://hitechinstall.com',
   baseUrl: '/',
   onBrokenLinks: 'warn',
@@ -40,7 +40,7 @@ module.exports = {
       ],
     },
     footer: {
-      copyright: `Copyright © ${new Date().getFullYear()} 𝓗𝓲-𝓣𝓮𝓬𝓱 𝓘𝓷𝓼𝓽𝓪𝓵𝓵𝓪𝓽𝓲𝓸𝓷/𝓢𝓮𝓬𝓾𝓻𝓲𝓽𝔂 𝓛𝓛𝓒`,
+      copyright: `Copyright © ${new Date().getFullYear()} Hi-Tech Installation|Security LLC`,
       style: 'dark',
       links: [
         {
