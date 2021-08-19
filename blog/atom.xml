@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hitechinstall.com/blog</id>
-    <title>𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 ℋ𝒾𝒯𝑒𝒸𝒽ℐ𝓃𝓈𝓉𝒶𝓁𝓁.𝒸𝑜𝓂 Blog</title>
+    <title>Welcome to HiTechInstall.com Blog</title>
     <updated>2021-08-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://hitechinstall.com/blog"/>
-    <subtitle>𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 ℋ𝒾𝒯𝑒𝒸𝒽ℐ𝓃𝓈𝓉𝒶𝓁𝓁.𝒸𝑜𝓂 Blog</subtitle>
+    <subtitle>Welcome to HiTechInstall.com Blog</subtitle>
     <icon>https://hitechinstall.com/img/hitech_logo.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome to HiTechInstall]]></title>
